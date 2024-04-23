@@ -1,6 +1,6 @@
 ### Hola mundo 👋
 
-Somos Curus AWS
+Somos Gurus AWS
 
 <!--
 **GAWCL/GAWCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
